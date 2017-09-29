@@ -22,7 +22,7 @@ Once sent to the FIND server, the location can be directly determined. For more 
 
 # Requirements
 
-- Several Raspberry Pis, where each Raspberry pi has [a USB Wifi adapter that supports "monitor mode"](http://elinux.org/RPi_USB_Wi-Fi_Adapters), and it additionally has a second internet connection via ethernet or another adapter
+- Several Raspberry Pis, where each Raspberry pi has [a USB Wifi adapter that supports "monitor mode"](http://elinux.org/RPi_USB_Wi-Fi_Adapters) (e.g. [Panda USB WiFi Adapter PAU04](http://a.co/h1Skhdu), and it additionally has a second internet connection via ethernet or another adapter
 - A computer with Python3 and SSH installed
 
 # Setup
